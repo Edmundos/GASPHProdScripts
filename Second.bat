@@ -1,0 +1,1 @@
+start /wait "" "C:\Program Files (x86)\Global Agility Solutions\Global Desktop\Global Desktop.exe"
